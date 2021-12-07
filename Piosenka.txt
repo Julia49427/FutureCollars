@@ -14,11 +14,7 @@ Refren 2
 <lacznik.txt>
 
 Zwrotka 3
-Dining at the Ritz we'll meet at nine precisely 
-(One, two, three, four, five, six, seven, eight, nine o'clock)
-I will pay the bill, you taste the wine
-Driving back in style in my saloon will do quite nicely
-Just take me back to yours that will be fine (Come on and get it)
+<zwrotka3.txt>
 
 Refren 3
 Ooh, love (There he goes again)
