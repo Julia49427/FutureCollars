@@ -2,13 +2,13 @@ Zwrotka 1
 <zwrotka1.txt>
 
 Refren 1
-<refren1.txt>
+<nowyrefren.txt>
 
 Zwrotka 2
 <zwrotka2.txt>
 
 Refren 2
-<refren2.txt>
+<nowyrefren.txt>
 
 Łącznik 
 <lacznik.txt>
@@ -17,4 +17,4 @@ Zwrotka 3
 <zwrotka3.txt>
 
 Refren 3
-<refren3.txt>
+<nowyrefren.txt>
