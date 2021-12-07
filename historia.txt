@@ -1,3 +1,65 @@
+commit a5731782abb8bd3fece3b8f3bd4f93081ae79ce4
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:47:07 2021 +0100
+
+    Zastąpienie nowym refrenem
+
+commit a7ccb8ec08c9b645405532af0216066fc87bdf70
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:42:05 2021 +0100
+
+    Revert "Usuwam linijkę refrenu"
+    
+    This reverts commit 53a136eb87a651e093dc15168c1fd1ea1eb94e97.
+
+commit 53a136eb87a651e093dc15168c1fd1ea1eb94e97
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:37:34 2021 +0100
+
+    Usuwam linijkę refrenu
+
+commit 2e94621e48d2c815b7fbeea8d44c3658a4b4068c
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:31:55 2021 +0100
+
+    Dodaję historię
+
+commit e29a04193a406fd13458ae2610f9ea952e3376e5
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:30:19 2021 +0100
+
+    Przenoszę refren 3
+
+commit b2681c81513404b6286f658ecf2e2c3acfdc265a
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:29:10 2021 +0100
+
+    Przenoszę zwrotkę 3
+
+commit e4800f3513943220347e8cdf20adeb0e945789fe
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:27:40 2021 +0100
+
+    Przenoszę łącznik
+
+commit 97d0199e3b585c5e9b8fbc6cad09f2ce3c14c89b
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:26:23 2021 +0100
+
+    Przenoszę refren 2
+
+commit 8b5288a6f844a338d4883a3ebdb45f5f87625ee1
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:25:17 2021 +0100
+
+    Przenoszę zwrotkę 2
+
+commit 59383e403470f112f31b1c22a60d0c829ded3184
+Author: Julia <patyczak49427@wp.pl>
+Date:   Tue Dec 7 14:23:40 2021 +0100
+
+    Przenoszę refren 1
+
 commit 9e4fca40b71c524fbcd7b2f7334194da8b8a65e4
 Author: Julia <patyczak49427@wp.pl>
 Date:   Tue Dec 7 14:11:16 2021 +0100
