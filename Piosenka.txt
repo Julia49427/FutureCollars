@@ -11,17 +11,7 @@ Refren 2
 <refren2.txt>
 
 Łącznik 
-When I'm not with you
-Think of you always
-(I miss those long hot summer nights) I miss you
-When I'm not with you
-Think of me always
-Love you, love you
-Hey, boy, where do you get it from?
-Hey, boy, where did you go?
-I learned my passion
-In the good old-fashioned
-School of loverboys
+<lacznik.txt>
 
 Zwrotka 3
 Dining at the Ritz we'll meet at nine precisely 
