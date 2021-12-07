@@ -5,12 +5,7 @@ Refren 1
 <refren1.txt>
 
 Zwrotka 2
-Ooh, let me feel your heartbeat (Grow faster, faster)
-Ooh, ooh, can you feel my love heat?
-Come on and sit on my hot-seat of love
-And tell me how do you feel right after all
-I'd like for you and I to go romancing
-Say the word, your wish is my command
+<zwrotka2.txt>
 
 Refren 2
 Ooh, love, ooh, loverboy
