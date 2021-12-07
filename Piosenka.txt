@@ -8,11 +8,7 @@ Zwrotka 2
 <zwrotka2.txt>
 
 Refren 2
-Ooh, love, ooh, loverboy
-What're you doin' tonight, hey, boy?
-Write my letter
-Feel much better
-And use my fancy patter on the telephone
+<refren2.txt>
 
 Łącznik 
 When I'm not with you
